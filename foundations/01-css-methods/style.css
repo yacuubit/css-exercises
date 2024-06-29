@@ -1,8 +1,10 @@
 div {
         color:white;
         background-color: red;
-        font-size: x-large;
-        font-family: 'Times New Roman', Times, serif
-      }
+        font-size: 32px;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;
+        font-weight: bold;
+    }
 
 
