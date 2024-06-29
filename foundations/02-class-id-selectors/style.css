@@ -1,0 +1,30 @@
+.odd {
+    background-color: peachpuff;
+    font-family: Verdana, "DejaVu Sans", sans-serif ;
+    font-size: 24px;
+}
+
+.two {
+    color: blue;
+    font-size: 36px;
+}
+
+.three {
+    background-color: peachpuff;
+    font-family: Verdana, "DejaVu Sans", sans-serif ;
+    font-size: 24px;
+}
+
+#four,
+.c {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.five {
+    background-color: peachpuff;
+    font-family: Verdana, "DejaVu Sans", sans-serif ;
+    font-size: 24px;
+}
+
