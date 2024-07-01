@@ -1,0 +1,15 @@
+.dior,
+.hermes {
+    font-size: 24px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.dior {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.hermes {
+    background-color: yellow;
+}
